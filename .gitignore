@@ -1,0 +1,8 @@
+# Filetypes
+.DS_Store
+
+# Directories
+node_modules/
+/tmp/
+/vendor/
+venv/
